@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a simple terminal-based game called [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe). It has been written in C++ and uses `curses` library.
+This is a simple terminal-based game called [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 To compile it on GNU/Linux use:
 
