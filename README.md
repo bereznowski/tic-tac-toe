@@ -2,6 +2,8 @@
 
 This is a simple terminal-based game called [Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
+Implementation based on [requirements](https://github.com/bereznowski/tic-tac-toe/files/7960667/problem.pdf).
+
 To compile it on GNU/Linux use:
 
 ```
